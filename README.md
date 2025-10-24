@@ -4,7 +4,7 @@ A sophisticated, responsive contact management application built with React, fea
 
 ## 🌐 Live Demo
 
-**🚀 Deployed Application:** [**Vercel**  - https://contact-list-5ncg7gqf5-sarthakmuns-projects.vercel.app/]
+**🚀 Deployed Application:** [**Vercel**  - https://contact-list-app-lac.vercel.app/]
 
 ---
 
@@ -174,7 +174,7 @@ src/
 ## 🚀 Deployment
 
 This application is configured for deployment on:
-- **Vercel**  - https://contact-list-5ncg7gqf5-sarthakmuns-projects.vercel.app/
+- **Vercel**  - https://contact-list-app-lac.vercel.app/
 
 
 ---
