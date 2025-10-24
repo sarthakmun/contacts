@@ -4,9 +4,7 @@ A sophisticated, responsive contact management application built with React, fea
 
 ## 🌐 Live Demo
 
-**🚀 Deployed Application:** [Coming Soon - Will be updated after deployment]
-
-**📂 Source Code:** [GitHub Repository - Will be updated after repository creation]
+**🚀 Deployed Application:** [**Vercel**  - https://contact-list-5ncg7gqf5-sarthakmuns-projects.vercel.app/]
 
 ---
 
