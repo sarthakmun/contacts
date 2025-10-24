@@ -176,12 +176,8 @@ src/
 ## 🚀 Deployment
 
 This application is configured for deployment on:
-- **Vercel** (Recommended) - Automatic React detection
-- **Netlify** - SPA routing configured
-- **GitHub Pages** - Static hosting ready
-- **Any Static Host** - Standard build output
+- **Vercel**  - https://contact-list-5ncg7gqf5-sarthakmuns-projects.vercel.app/
 
-See `DEPLOYMENT.md` for detailed deployment instructions.
 
 ---
 
